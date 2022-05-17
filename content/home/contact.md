@@ -15,42 +15,46 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: laufer@cs.luc.edu
+  phone: +1 773 508-3583
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1032 W Sheridan Rd
+    city: Chicago
+    region: IL
+    postcode: '60660-1537'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '42.001695'
+    longitude: '-87.658191'
+  directions: Enter Doyle Hall (1052 W Loyola Ave) and take the stairs to Office 202 on the second floor
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'by appointment'
+  appointment_url: 'https://calendly.com/laufer'
   contact_links:
-    - icon: twitter
+    - icon: github
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: klaeufer
+      link: 'https://github.com/klaeufer'
+    - icon: google-scholar
+      icon_pack: ai
+      name: klaeufer
+      link: 'http://scholar.google.com/citations?user=Rs0f_nMAAAAJ'
+    - icon: linkedin
+      icon_pack: fab
+      name: in/laufer
+      link: 'http://www.linkedin.com/in/laufer'
+# TODO arxiv, orcid
+# TODO instagram, meetup, rmp, stayfriends, twitter, xing, youtube
+#    - icon: twitter
+#      icon_pack: fab
+#      name: DM Me
+#      link: 'https://twitter.com/klaeufer'
+#    - icon: video
+#      icon_pack: fas
+#      name: Zoom Me
+#      link: 'https://zoom.com'
 
 design:
   columns: '2'

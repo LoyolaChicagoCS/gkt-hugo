@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Please see CV for now...'
 
 content:
   # Filter on criteria
