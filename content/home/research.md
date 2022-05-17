@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Research
-subtitle: 'Coming soon...'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -46,3 +46,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+Please see my [GitHub profile](https://github.com/klaeufer) for active projects.
