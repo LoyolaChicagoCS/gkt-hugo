@@ -88,7 +88,7 @@ Meanwhile, please see my {{< staticref "https://sites.google.com/a/cs.luc.edu/la
 
 ## Brief bio
 
-I am a professor of computer science at Loyola University Chicago. I majored in physics at the University of Konstanz, Germany, attended Rutgers University, New Jersey, as an exchange student, and earned a PhD in computer science from the Courant Institute at New York University in 1992 prior to joining Loyola. 
+I am a professor of computer science at Loyola University Chicago. I majored in physics at the University of Konstanz, Germany, and attended Rutgers University, New Jersey, as an exchange student. Prior to joining Loyola, I earned a PhD in computer science from the Courant Institute at New York University in 1992 under the supervision of [Benjamin F. Goldberg](https://cs.nyu.edu/~goldberg) and [Martin Odersky](https://lampwww.epfl.ch/~odersky). 
 
 My research and teaching interests include programming languages, software architecture, distributed and pervasive computing systems, and data engineering, as well as applications in bioinformatics, environmental science, and digital humanities. I'm affiliated with the Software and Systems Laboratory (SSL), an environment for computer systems and applied software engineering research. My research has been funded by government agencies and corporations. I'm a co-inventor on two patents owned by Lucent Technologies, where I was a research consultant (1996-2000). 
 

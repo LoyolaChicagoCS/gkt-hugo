@@ -74,6 +74,10 @@ content:
       icon_pack: fab
       name: LinkedIn
       link: 'http://www.linkedin.com/in/laufer'
+    - icon: dna
+      icon_pack: fas
+      name: 'Mathematics Genealogy Project'
+      link: 'https://www.mathgenealogy.org/id.php?id=151113'
     - icon: meetup
       icon_pack: fab
       name: Meetup
