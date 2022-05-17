@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Teaching
-subtitle: 'Coming soon...'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -46,3 +46,22 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+## Fall 2022
+
+- COMP 335/488: Formal Methods in Software Engineering
+  - Thu 16:15-18:45
+  - [course site](https://klaeufer.github.io/lucformalmethodscourse)
+- COMP 371/471: Theory (and Practice) of Programming Languages
+  - Tue 16:15-18:45
+  - [course site](https://lucproglangcourse.github.io)
+
+## Spring 2023
+
+- COMP 271: Data Structures I
+  - Mon/Wed 13:40-15:35
+  - [sample syllabus](https://docs.google.com/document/d/1Aq-kB3KF3uCvGoyHUzkvZY-3qbQPSfTFY28fsKZ3AnM)
+- COMP 370/470: Software Quality and Testing
+  - TBD 16:15-18:45
+  - [sample syllabus](https://docs.google.com/document/d/10H3toVYPhREPsVEvOb4JIJpPZ9xn2cc3ZkgUZzPMN7A)
+  
