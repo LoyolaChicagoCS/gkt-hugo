@@ -28,7 +28,7 @@ content:
   coordinates:
     latitude: '42.001695'
     longitude: '-87.658191'
-  directions: Enter Doyle Hall (1052 W Loyola Ave) and take the stairs to Office 202 on the second floor
+  directions: Enter Doyle Hall (1052 W Loyola Ave) and take the stairs to room 202 on the second floor
   office_hours:
     - 'by appointment'
   appointment_url: 'https://calendly.com/laufer'
