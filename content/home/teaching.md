@@ -57,6 +57,9 @@ design:
   - Tue 16:15-18:45 Cuneo 103
   - [course notes](https://lucproglangcourse.github.io)
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_371_001_3918_1226)
+- Office hour:
+  - Tue/Thu after class (no appointment required)
+  - Fri 14:00-15:30 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
 
 ## Spring 2023
 

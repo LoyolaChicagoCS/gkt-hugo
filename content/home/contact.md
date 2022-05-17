@@ -81,7 +81,7 @@ content:
     - icon: meetup
       icon_pack: fab
       name: Meetup
-      link: 'http://www.meetup.com/members/6740341/groups/'
+      link: 'https://www.meetup.com/members/6740341/?showAllGroups=true'
     - icon: orcid
       icon_pack: ai
       name: ORCID
