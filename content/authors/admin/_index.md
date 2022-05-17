@@ -22,10 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Programming Languages
   - Software Architecture
-  - Software Metrics
   - Mobile and Pervasive Computing
-  - High-Performance Computing
-  - Applications in Environmental and Social Sciences
+  - Data Engineering
 
 # Education to show in About widget
 education:
@@ -51,15 +49,18 @@ social:
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/klaeufer
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: 'https://scholar.google.com/citations?user=Rs0f_nMAAAAJ'
   - icon: github
     icon_pack: fab
     link: https://github.com/klaeufer
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: 'https://scholar.google.com/citations?user=Rs0f_nMAAAAJ'
   - icon: linkedin
     icon_pack: fab
     link: 'http://www.linkedin.com/in/laufer'
+  - icon: cv
+    icon_pack: ai
+    link: 'https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -80,13 +81,19 @@ Sali und willkomme zäme!
 ¡Hola y bienvenidos/as!
 Ciao e benvenuti/e!
 
-I am a professor of computer science at Loyola University Chicago. He majored in physics at the University of Konstanz, Germany, attended Rutgers University, New Jersey, as an exchange student, and earned a PhD in computer science from the Courant Institute at New York University in 1992 prior to joining Loyola. 
-
-His research and teaching interests include programming languages, software architecture, distributed and pervasive computing systems, and data engineering, as well as applications in bioinformatics, environmental science, and digital humanities. Konstantin is affiliated with the Software and Systems Laboratory (SSL), an environment for computer systems and applied software engineering research. Konstantin's research has been funded by government agencies and corporations. He is a co-inventor on two patents owned by Lucent Technologies, where he was a research consultant (1996-2000). 
-
-He also served in various administrative roles, including associate dean of the graduate school (2005-06), department chair (2012-2018), and graduate program director (2019-20).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+## Under construction...
 
 Construction of this site started recently and is progressing rapidly.
 Meanwhile, please see my {{< staticref "https://sites.google.com/a/cs.luc.edu/laufer" "newtab" >}}previous website{{< /staticref >}} for more content.
+
+## Brief bio
+
+I am a professor of computer science at Loyola University Chicago. I majored in physics at the University of Konstanz, Germany, attended Rutgers University, New Jersey, as an exchange student, and earned a PhD in computer science from the Courant Institute at New York University in 1992 prior to joining Loyola. 
+
+My research and teaching interests include programming languages, software architecture, distributed and pervasive computing systems, and data engineering, as well as applications in bioinformatics, environmental science, and digital humanities. I'm affiliated with the Software and Systems Laboratory (SSL), an environment for computer systems and applied software engineering research. My research has been funded by government agencies and corporations. I'm a co-inventor on two patents owned by Lucent Technologies, where I was a research consultant (1996-2000). 
+
+I also served in various administrative roles, including associate dean of the graduate school (2005-06), department chair (2012-2018), and graduate program director (2019-20).
+
+## Hobbies
+
+Music (saxophone), trail running (non-ultra), strength training, soccer, hiking, XC skiing, sailing, traveling (especially scenic driving on backroads leading to remote campsites), current affairs, movies.
