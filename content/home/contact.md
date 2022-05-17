@@ -34,10 +34,18 @@ content:
     - 'by appointment (via Calendly)'
   appointment_url: 'https://calendly.com/laufer'
   contact_links:
+    - icon: acmdl
+      icon_pack: ai
+      name: "ACM Digital Library"
+      link: 'http://dl.acm.org/author_page.cfm?id=81100009927'
     - icon: arxiv
       icon_pack: ai
       name: 'arXiv'
       link: 'https://arxiv.org/search/?searchtype=author&query=L%C3%A4ufer%2C+K'
+    - icon: open-materials
+      icon_pack: ai
+      name: 'BEPress SelectedWorks'
+      link: 'https://works.bepress.com/laufer'
     - icon: calendar
       icon_pack: fas
       name: 'Google Calendar'
@@ -46,6 +54,10 @@ content:
       icon_pack: ai
       name: 'Download CV [PDF]'
       link: 'https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf'
+    - icon: dblp
+      icon_pack: ai
+      name: 'DBLP'
+      link: 'http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/L=auml=ufer:Konstantin.html'
     - icon: github
       icon_pack: fab
       name: GitHub
@@ -86,15 +98,6 @@ content:
       icon_pack: fab
       name: YouTube
       link: 'http://www.youtube.com/user/klaeufer'
-# TODO instagram, meetup, rmp, stayfriends, twitter, xing, youtube
-#    - icon: twitter
-#      icon_pack: fab
-#      name: DM Me
-#      link: 'https://twitter.com/klaeufer'
-#    - icon: video
-#      icon_pack: fas
-#      name: Zoom Me
-#      link: 'https://zoom.com'
 
 design:
   columns: '2'
