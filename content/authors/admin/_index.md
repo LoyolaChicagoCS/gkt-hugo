@@ -10,6 +10,8 @@ role: Professor, Department of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Software and Systems Laboratory
+    url: https://ssl.cs.luc.edu/
   - name: Loyola University Chicago
     url: https://luc.edu/cs/
 
@@ -81,4 +83,4 @@ He also served in various administrative roles, including associate dean of the 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/klaeufer/cv/releases/latest/download/laufer-cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
 Construction of this site started recently and is progressing rapidly.
-For now, please see my {{< staticref "http://laufer.cs.luc.edu" "newtab" >}}previous website{{< /staticref >}} for more content.
+Meanwhile, please see my {{< staticref "https://sites.google.com/a/cs.luc.edu/laufer" "newtab" >}}previous website{{< /staticref >}} for more content.
