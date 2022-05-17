@@ -65,3 +65,7 @@ design:
   - TBD 16:15-18:45
   - [sample syllabus](https://docs.google.com/document/d/10H3toVYPhREPsVEvOb4JIJpPZ9xn2cc3ZkgUZzPMN7A)
   
+
+## Code examples
+
+[GitHub](https://github.com/loyolachicagocode)
