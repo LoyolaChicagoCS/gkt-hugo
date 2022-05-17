@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Selected Publications
-subtitle: 'Please see CV for now...'
+title: Publications
+subtitle: ''
 
 content:
   # Filter on criteria
