@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -21,7 +21,7 @@ marketing:
     description: 'Konstantin Läufer, Professor of Computer Science, Loyola University Chicago'
     twitter: 'loyolachicagocs'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-E9W3XPB4BP'
     baidu_tongji: ''
   verification:
     google: ''
