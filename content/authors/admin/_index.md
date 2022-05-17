@@ -81,11 +81,6 @@ Sali und willkomme zäme!
 ¡Hola y bienvenidos/as!
 Ciao e benvenuti/e!
 
-## Under construction...
-
-Construction of this site started recently and is progressing rapidly.
-Meanwhile, please see my {{< staticref "https://sites.google.com/a/cs.luc.edu/laufer" "newtab" >}}previous website{{< /staticref >}} for more content.
-
 ## Brief bio
 
 I am a professor of computer science at Loyola University Chicago. I majored in physics at the University of Konstanz, Germany, and attended Rutgers University, New Jersey, as an exchange student. Prior to joining Loyola, I earned a PhD in computer science from the Courant Institute at New York University in 1992 under the supervision of [Benjamin F. Goldberg](https://cs.nyu.edu/~goldberg) and [Martin Odersky](https://lampwww.epfl.ch/~odersky). 

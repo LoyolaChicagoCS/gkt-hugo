@@ -69,3 +69,7 @@ design:
 ## Code examples
 
 [GitHub](https://github.com/loyolachicagocode)
+
+## Past courses
+
+Please see my {{< staticref "https://sites.google.com/a/cs.luc.edu/laufer" "newtab" >}}legacy website{{< /staticref >}} for past course content.
