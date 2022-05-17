@@ -22,9 +22,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Programming Languages
   - Software Architecture
-  - Distributed Computing
   - Software Metrics
+  - Mobile and Pervasive Computing
   - High-Performance Computing
+  - Applications in Environmental and Social Sciences
 
 # Education to show in About widget
 education:
