@@ -75,7 +75,12 @@ email: ''
 highlight_name: true
 ---
 
-Konstantin Läufer is a professor of computer science at Loyola University Chicago. He majored in physics at the University of Konstanz, Germany, attended Rutgers University, New Jersey, as an exchange student, and earned a PhD in computer science from the Courant Institute at New York University in 1992 prior to joining Loyola. 
+Hello and welcome! 
+Sali und willkomme zäme!
+¡Hola y bienvenidos/as!
+Ciao e benvenuti/e!
+
+I am a professor of computer science at Loyola University Chicago. He majored in physics at the University of Konstanz, Germany, attended Rutgers University, New Jersey, as an exchange student, and earned a PhD in computer science from the Courant Institute at New York University in 1992 prior to joining Loyola. 
 
 His research and teaching interests include programming languages, software architecture, distributed and pervasive computing systems, and data engineering, as well as applications in bioinformatics, environmental science, and digital humanities. Konstantin is affiliated with the Software and Systems Laboratory (SSL), an environment for computer systems and applied software engineering research. Konstantin's research has been funded by government agencies and corporations. He is a co-inventor on two patents owned by Lucent Technologies, where he was a research consultant (1996-2000). 
 
