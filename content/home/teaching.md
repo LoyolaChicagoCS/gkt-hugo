@@ -50,10 +50,10 @@ design:
 ## Fall 2022
 
 - COMP 335/488: Formal Methods in Software Engineering
-  - Thu 16:15-18:45
+  - Thu 16:15-18:45 Cuneo 104
   - [course site](https://klaeufer.github.io/lucformalmethodscourse)
 - COMP 371/471: Theory (and Practice) of Programming Languages
-  - Tue 16:15-18:45
+  - Tue 16:15-18:45 Cuneo 103
   - [course site](https://lucproglangcourse.github.io)
 
 ## Spring 2023
