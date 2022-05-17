@@ -37,8 +37,8 @@ content:
       icon_pack: fab
       name: klaeufer
       link: 'https://github.com/klaeufer'
-    - icon: google-scholar
-      icon_pack: ai
+    - icon: graduation-cap
+      icon_pack: fas
       name: klaeufer
       link: 'http://scholar.google.com/citations?user=Rs0f_nMAAAAJ'
     - icon: linkedin
