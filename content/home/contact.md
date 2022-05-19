@@ -94,6 +94,10 @@ content:
       icon_pack: fas
       name: StayFriends
       link: 'https://www.stayfriends.de/client/profile/339427'
+    - icon: twitter
+      icon_pack: fab
+      name: Twitter
+      link: 'https://twitter.com/klaeufer'
     - icon: xing
       icon_pack: fab
       name: Xing
