@@ -54,7 +54,7 @@ design:
   - [course notes](https://klaeufer.github.io/lucformalmethodscourse)
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_335_001_5761_1226)
 - COMP 371/471: Theory (and Practice) of Programming Languages
-  - Tue 16:15-18:45 Cuneo 103
+  - Tue 16:15-18:45 SES 122
   - [course notes](https://lucproglangcourse.github.io)
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_371_001_3918_1226)
 - Office hour:
