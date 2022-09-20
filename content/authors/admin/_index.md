@@ -91,4 +91,4 @@ I also served in various administrative roles, including associate dean of the g
 
 ## Hobbies
 
-Music (saxophone), trail running (non-ultra), strength training, soccer, hiking, XC skiing, sailing, traveling (especially scenic driving on backroads leading to remote campsites), current affairs, movies.
+Music (saxophone), trail running (non-ultra), strength training, soccer, hiking, nordic skiing, sailing, traveling (especially scenic driving on backroads leading to remote trailheads and campsites), current affairs, movies.
