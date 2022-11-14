@@ -34,3 +34,7 @@ publication_types:
 abstract: ''
 publication: '*Proc. EduHPC-22: Workshop on Education for High-Performance Computing*'
 ---
+
+url = "https://ecommons.luc.edu/cs_facpubs/314/"
+
+url_pdf = "https://figshare.com/articles/preprint/UnoAPI_Balancing_Performance_Portability_and_Productivity_P3_in_HPC_Education/21200464"
