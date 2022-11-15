@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2022-05-17T16:16:58-05:00
+lastmod: 2022-11-14T18:06:46-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-17T21:16:56.635076Z'
+publishDate: '2022-11-15T00:06:46.072411Z'
 publication_types:
 - '1'
 abstract: 'Scala is one of a new breed of hybrid languages with both object-oriented
@@ -44,5 +44,5 @@ abstract: 'Scala is one of a new breed of hybrid languages with both object-orie
 publication: "*45th ACM technical symposium / Computer science education (SIGCSE '14)*"
 links:
 - name: URL
-  url: https://scalaworkshop.cs.luc.edu
+  url: https://scalaworkshop.cs.luc.edu/html/
 ---

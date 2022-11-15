@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2022-05-17T16:15:53-05:00
+lastmod: 2022-11-14T18:06:35-06:00
 featured: false
 draft: false
 
@@ -30,10 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-17T21:15:52.223672Z'
+publishDate: '2022-11-15T00:06:35.532684Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*ICSOFT 2011 - Proceedings of the 6th International Conference on Software
   and Data Technologies, Volume 1, Seville, Spain, 18-21 July, 2011*'
+links:
+- name: URL
+  url: http://ecommons.luc.edu/cs_facpubs/36/
 ---

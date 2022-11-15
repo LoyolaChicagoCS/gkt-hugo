@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2008-01-01'
-lastmod: 2022-05-17T16:15:58-05:00
+lastmod: 2022-11-14T18:06:36-06:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-17T21:15:57.569438Z'
+publishDate: '2022-11-15T00:06:36.673270Z'
 publication_types:
 - '1'
 abstract: Processing markup in object-oriented languages often requires the programmer

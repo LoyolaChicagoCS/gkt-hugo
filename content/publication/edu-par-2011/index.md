@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2011-05-01'
-lastmod: 2022-05-17T16:15:55-05:00
+lastmod: 2022-11-14T18:06:36-06:00
 featured: false
 draft: false
 
@@ -30,10 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-17T21:15:54.553965Z'
+publishDate: '2022-11-15T00:06:35.963671Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*1st NSF/IEEE-CS TCPP Workshop on Parallel and Distributed Computing
   Education (EduPar), Anchorage, Alaska*'
+links:
+- name: URL
+  url: https://tcpp.cs.gsu.edu/curriculum/?q=node/16950
 ---

@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2022-11-01'
-lastmod: 2022-11-14T12:34:09-06:00
+lastmod: 2022-11-14T18:06:34-06:00
 featured: false
 draft: false
 
@@ -28,13 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-14T18:34:02.707909Z'
+publishDate: '2022-11-15T00:06:34.004524Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proc. EduHPC-22: Workshop on Education for High-Performance Computing*'
+links:
+- name: URL
+  url: https://ecommons.luc.edu/cs_facpubs/314/
 ---
-
-url = "https://ecommons.luc.edu/cs_facpubs/314/"
-
-url_pdf = "https://figshare.com/articles/preprint/UnoAPI_Balancing_Performance_Portability_and_Productivity_P3_in_HPC_Education/21200464"

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2022-05-17T16:15:47-05:00
+lastmod: 2022-11-14T18:06:33-06:00
 featured: false
 draft: false
 
@@ -30,9 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-17T21:15:46.515851Z'
+publishDate: '2022-11-15T00:06:33.790235Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Cloud Computing: Methodology, System, and Applications*'
+links:
+- name: URL
+  url: https://ecommons.luc.edu/cs_facpubs/45/
 ---

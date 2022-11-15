@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2022-05-17T16:17:03-05:00
+lastmod: 2022-11-14T18:06:46-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-17T21:17:01.761558Z'
+publishDate: '2022-11-15T00:06:46.769322Z'
 publication_types:
 - '1'
 abstract: "Various hybrid-paradigm languages, designed to balance compile-time error\

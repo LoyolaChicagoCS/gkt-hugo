@@ -51,7 +51,7 @@ design:
 
 - COMP 335/488: Formal Methods in Software Engineering
   - Thu 16:15-18:45 Cuneo 104
-  - [course notes](https://klaeufer.github.io/lucformalmethodscourse)
+  - [course notes](https://lucformalmethodscourse.github.io)
   - [Sakai site](https://sakai.luc.edu/portal/site/COMP_335_001_5761_1226)
 - COMP 371/471: Theory (and Practice) of Programming Languages
   - Tue 16:15-18:45 SES 122
@@ -67,7 +67,7 @@ design:
   - Mon/Wed 13:40-15:35
   - [sample syllabus](https://docs.google.com/document/d/1Aq-kB3KF3uCvGoyHUzkvZY-3qbQPSfTFY28fsKZ3AnM)
 - COMP 370/470: Software Quality and Testing
-  - TBD 16:15-18:45
+  - Wed 16:15-18:45
   - [sample syllabus](https://docs.google.com/document/d/10H3toVYPhREPsVEvOb4JIJpPZ9xn2cc3ZkgUZzPMN7A)
   
 
