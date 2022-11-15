@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2022-11-14T18:29:16-06:00
+lastmod: 2022-11-15T10:01:42-06:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-15T00:29:16.017115Z'
+publishDate: '2022-11-15T16:01:42.131107Z'
 publication_types:
 - '1'
 abstract: 'Scala is one of a new breed of hybrid languages with both object-oriented

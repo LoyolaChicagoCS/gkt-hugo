@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2022-11-14T18:29:06-06:00
+lastmod: 2022-11-15T10:01:32-06:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-15T00:29:06.084130Z'
+publishDate: '2022-11-15T16:01:32.204648Z'
 publication_types:
 - '1'
 abstract: We present a novel form of intra-volume directory layering with hierarchical,

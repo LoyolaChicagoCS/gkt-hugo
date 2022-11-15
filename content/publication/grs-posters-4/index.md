@@ -22,7 +22,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-11-14T18:29:15-06:00
+lastmod: 2022-11-15T10:01:41-06:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-15T00:29:15.266638Z'
+publishDate: '2022-11-15T16:01:41.441576Z'
 publication_types:
 - '1'
 abstract: Trust in open-source software is a cornerstone of scientific progress and

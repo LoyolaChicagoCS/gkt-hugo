@@ -20,7 +20,7 @@ tags:
 - test code complexity
 categories: []
 date: '2019-01-01'
-lastmod: 2022-11-14T18:29:04-06:00
+lastmod: 2022-11-15T10:01:30-06:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-15T00:29:04.425336Z'
+publishDate: '2022-11-15T16:01:30.520289Z'
 publication_types:
 - '1'
 abstract: In testing stateful abstractions, it is often necessary to record interactions,

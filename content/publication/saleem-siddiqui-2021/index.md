@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-11-14T18:29:15-06:00
+lastmod: 2022-11-15T10:01:41-06:00
 featured: false
 draft: false
 
@@ -27,9 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-15T00:29:15.017610Z'
+publishDate: '2022-11-15T16:01:41.196010Z'
 publication_types:
 - '5'
 abstract: ''
 publication: "*O'Reilly Media, Inc.*"
+links:
+- name: URL
+  url: https://learning.oreilly.com/library/view/learning-test-driven-development/9781098106461/foreword01.html
 ---

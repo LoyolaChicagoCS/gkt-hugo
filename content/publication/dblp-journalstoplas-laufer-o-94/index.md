@@ -1,17 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Unit Testing Considered Useful
+title: Polymorphic Type Inference and Abstract Data Types
 subtitle: ''
 summary: ''
 authors:
-- George K. Thiruvathukal
 - Konstantin Läufer
-- Benjamin González
+- Martin Odersky
 tags: []
 categories: []
-date: '2006-01-01'
-lastmod: 2022-11-15T10:01:39-06:00
+date: '1994-01-01'
+lastmod: 2022-11-15T10:01:37-06:00
 featured: false
 draft: false
 
@@ -29,12 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-15T16:01:39.710490Z'
+publishDate: '2022-11-15T16:01:37.339949Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Computing in Science and Engineering*'
+publication: '*ACM Trans. Program. Lang. Syst.*'
+doi: 10.1145/186025.186031
 links:
 - name: URL
-  url: https://ecommons.luc.edu/cs_facpubs/33/
+  url: https://doi.org/10.1145/186025.186031
 ---
