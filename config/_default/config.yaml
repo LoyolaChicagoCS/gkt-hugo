@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Konstantin Läufer' # Website name
-baseURL: 'https://laufer.cs.luc.edu/' # Website URL
+title: 'George K. Thiruvathukal, PhD' # Website name
+baseURL: 'https://gkt-hugo.loyolachicagocs.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
