@@ -31,8 +31,8 @@ content:
     longitude: '-87.658191'
   directions: Enter Doyle Hall (1052 W Loyola Ave) and take the stairs to room 301 on the third floor
   office_hours:
-    - 'by appointment (via Calendly)'
-  appointment_url: 'https://calendly.com/laufer'
+    - 'by appointment only (book an appointment below)'
+  appointment_url: 'https://calendly.com/gkthiruvathukal'
   contact_links:
     - icon: arxiv
       icon_pack: ai
@@ -49,7 +49,7 @@ content:
     - icon: cv
       icon_pack: ai
       name: 'Download CV [PDF]'
-      link: 'https://github.com/gkthiruvathukal/cv/releases/latest/download/laufer-cv.pdf'
+      link: 'https://github.com/gkthiruvathukal/cv/releases/latest/download/gkthiruvathukal-cv.pdf'
     - icon: github
       icon_pack: fab
       name: GitHub
