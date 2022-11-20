@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gkt-hugo.loyolachicagocs.github.io/sitemap.xml
