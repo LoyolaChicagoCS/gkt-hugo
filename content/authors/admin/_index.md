@@ -70,7 +70,7 @@ social:
     link: 'http://www.linkedin.com/in/gkthiruvathukal'
   - icon: cv
     icon_pack: ai
-    link: 'https://github.com/gkthiruvathukal/cv/releases/latest/download/laufer-cv.pdf'
+    link: 'https://github.com/gkthiruvathukal/cv/releases/latest/download/gkthiruvathukal-cv.pdf'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
