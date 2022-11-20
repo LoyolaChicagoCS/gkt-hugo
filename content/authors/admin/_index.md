@@ -83,9 +83,7 @@ highlight_name: true
 ---
 
 Hello and welcome! 
-Sali und willkomme zäme!
 ¡Hola y bienvenidos/as!
-Ciao e benvenuti/e!
 
 ## Brief Bio
 
@@ -122,6 +120,5 @@ My current work addresses software engineering for science and machine learning;
 
 Beyond academic computer science, I have a strong interest in information technology; ethical, legal, and social issues in computing; entrepreneurship; and broadening participation in computing. See the [Software and Systems Laboratory](https://ssl.cs.luc.edu) for more details!
 
-
-## Brief bio
+## Hobbies
 
