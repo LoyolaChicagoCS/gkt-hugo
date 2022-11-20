@@ -55,8 +55,8 @@ No scheduled teaching.
 
 - COMP 339/439: Distributed Systems
   - Monday 4:15pm-6:45pm US Central/Chicago
-  - Lecture notes at https://ds.cs.luc.edu
-  - Additional notes at https://os.cs.luc.edu
+  - Distributed Systems lecture notes at [ds.cs.luc.edu](https://ds.cs.luc.edu)
+  - Advanced Systems Programming/Operating Systems notes at [os.cs.luc.edu](https://os.cs.luc.edu)
 
 ## Past Courses
 
