@@ -91,21 +91,32 @@ Hello and welcome!
 
 ## Brief Bio
 
-## Bio
+I am full professor of computer science and chairperson of same at Loyola University Chicago.
+I am also a visiting computer scientist (guest faculty/researcher) at Argonne National Laboratory.
+I double-majored in computer science and physics at the Lewis University in Romeoville, IL.
+I earned a PhD in computer science from the Illinois Institute of Technology under the supervision of Thomas W. Christopher.
+
+My research and teaching interests include high-performance computing and distributed systems, programming languages, software engineering, data science, and machine learning.
+My recent work is primarily in the areas of energy-efficient computer vision and empirical software engineering.
+
+My research has been funded by government agencies (NSF, DARPA, NSA, and NEH) and corporations (Intel, Google, Meta, and Microsoft). 
+
+My academic career can be described as a bit non-linear.
+From 1990-1997, I worked full-time and consulting positions in the industry and ended this career as a senior memeber of technical staff and delopment manager.
+I credit this experience for helping to develop the leadership and "office" skills required of a department chairperson.
+
+I have served as undergraduate program director (in 2004) and as graduate program director (from 2004-2006).
+Apart from my university service, I have been an EIC of IEEE Computing in Science and Engineering Magazine and AEIC of IEEE Computer and chaired the Magazine Operations Committee after my EIC service was completed.
+I've also served on the Publications Board, which oversees the transactions and magazines published by the IEEE Computer Society.
+
+I am presently serving as a member of the IEEE Computer Advisory Board and as a Track EIC for the Journal of Open Source Software (Data Science and Artificial Intelligence).
+
+## Longer Bio
 
 Hi! You've reached the home page of `(Prof.|Dr.)? George Kuriakose Thiruvathukal`.
 The regex syntax indicates that it is optional to use *Prof.* or *Dr.* when addressing me.
 I am on a first name basis with just about everyone, which is a tradition passed on to me by my PhD advisor, [Thomas W. Christopher](https://tools-of-computing.com), who always insisted that I call him *TC* (tee-cee) from the moment we started working together at the Illinois Institute of Technology in 1988.
 Most people struggle with *Thiruvathukal*, so using *George* is not only encouraged but highly recommended.
-
-The K. is to recognize my father, <a href="https://www.legacy.com/us/obituaries/theherald-news/name/kuriakose-thiruvathukal-obituary?id=23543366">Kuriakose Varkey Thiruvathukal, PhD</a>, who taught at [Lewis University](https://lewisu.edu) and [Joliet Junior College](https://jjc.edu)--after "retiring" from Lewis University for an additional 25-year career.
-(I *hope* I can follow his act but still have a long way to go!)
-
-The name <a href="https://en.wikipedia.org/wiki/Kuriakose">Kuriakose</a> is a name associated with <a href="https://en.wikipedia.org/wiki/Saint_Thomas_Christians">St. Thomas Christians from India</a>.
-While relatively unknown to Christians in the West, Christianity has been practiced in India since the 1st Century AD, where St. Thomas spent his final years.
-Kerala is also home to a <a href="https://en.wikipedia.org/wiki/Paradesi_Synagogue">Jewish Synagogue</a> since 1568 AD. (I have visited it.)
-
-Anyway...
 
 So here is a little bit about me.
 I earned the Ph.D. and M.S. degrees in Computer Science from [Illinois Institute of Technology](https://iit.edu) in 1995 and 1990, respectively, and B.S. in Computer Science and Physics (double major) with a Mathematics minor from [Lewis University](https://lewisu.edu) in 1988.
@@ -125,4 +136,7 @@ My current work addresses software engineering for science and machine learning;
 Beyond academic computer science, I have a strong interest in information technology; ethical, legal, and social issues in computing; entrepreneurship; and broadening participation in computing. See the [Software and Systems Laboratory](https://ssl.cs.luc.edu) for more details!
 
 ## Hobbies
+
+Music (saxophone), trail running (non-ultra), strength training, soccer, hiking, nordic skiing, sailing, traveling (especially scenic driving on unpaved backroads leading to remote trailheads and campsites), current affairs, movies.
+
 
