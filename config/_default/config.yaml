@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'George K. Thiruvathukal, PhD' # Website name
-baseURL: 'https://gkt-hugo.loyolachicagocs.github.io/' # Website URL
+baseURL: 'https://loyolachicagocs.github.io/gkt-hugo' # Website URL
 
 ############################
 ## LANGUAGE
