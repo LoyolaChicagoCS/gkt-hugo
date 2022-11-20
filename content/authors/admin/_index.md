@@ -16,6 +16,10 @@ organizations:
     url: https://www.alcf.anl.gov/about/people/george-k-thiruvathukal
   - name: Purdue Univerity HELPS Lab
     url: https://purduehelps.org
+  - name: Track Editor-in-Chief, Journal of Open Source Software
+    url: https://joss.theoj.org/about#editorial_board
+  - name: Advisory Board, IEEE Computer
+    url: https://www.computer.org/csdl/magazine/co
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
