@@ -29,7 +29,7 @@ content:
   coordinates:
     latitude: '42.001695'
     longitude: '-87.658191'
-  directions: Enter Doyle Hall (1052 W Loyola Ave) and take the stairs to room 301 on the third floor
+  directions: Enter Doyle Hall on 1052 W Loyola Ave and take the stairs to room 301 on the third floor
   office_hours:
     - 'by appointment only (book an appointment below)'
   appointment_url: 'https://calendly.com/gkthiruvathukal'
