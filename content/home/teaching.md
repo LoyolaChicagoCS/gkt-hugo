@@ -49,32 +49,19 @@ design:
 
 ## Fall 2022
 
-- COMP 335/488: Formal Methods in Software Engineering
-  - Thu 16:15-18:45 Cuneo 104
-  - [course notes](https://lucformalmethodscourse.github.io)
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_335_001_5761_1226)
-- COMP 371/471: Theory (and Practice) of Programming Languages
-  - Tue 16:15-18:45 SES 122
-  - [course notes](https://lucproglangcourse.github.io)
-  - [Sakai site](https://sakai.luc.edu/portal/site/COMP_371_001_3918_1226)
-- Office hour:
-  - Tue/Thu after class (no appointment required)
-  - Fri 14:00-15:30 (please use [Calendly](https://calendly.com/laufer) to make an appointment)
+No scheduled teaching.
 
 ## Spring 2023
 
-- COMP 271: Data Structures I
-  - Mon/Wed 13:40-15:35
-  - [sample syllabus](https://docs.google.com/document/d/1Aq-kB3KF3uCvGoyHUzkvZY-3qbQPSfTFY28fsKZ3AnM)
-- COMP 370/470: Software Quality and Testing
-  - Wed 16:15-18:45
-  - [sample syllabus](https://docs.google.com/document/d/10H3toVYPhREPsVEvOb4JIJpPZ9xn2cc3ZkgUZzPMN7A)
-  
+- COMP 339/439: Distributed Systems
+  - Monday 4:15pm-6:45pm US Central/Chicago
+  - Lecture notes at https://ds.cs.luc.edu
+  - Additional notes at https://os.cs.luc.edu
+
+## Past Courses
+
+To appear soon.
 
 ## Code examples
 
-[GitHub](https://github.com/loyolachicagocode)
-
-## Past courses
-
-Please see my {{< staticref "https://sites.google.com/a/cs.luc.edu/laufer" "newtab" >}}legacy website{{< /staticref >}} for past course content.
+[Systems Code Examples](https://github.com/softwaresystemslaboratory/systems-code-examples)
