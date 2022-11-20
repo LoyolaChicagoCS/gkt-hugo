@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2022-11-19T22:39:22-06:00
+lastmod: 2022-11-20T13:04:44-06:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:22.875575Z'
+publishDate: '2022-11-20T19:04:44.853068Z'
 publication_types:
 - '5'
 abstract: " Nintendo's hugely popular and influential video game console system considered\
@@ -55,5 +55,5 @@ abstract: " Nintendo's hugely popular and influential video game console system 
 publication: '*MIT Press*'
 links:
 - name: URL
-  url: https://mitpress.mit.edu/books/codename-revolution
+  url: https://mitpress.mit.edu/9780262016803/codename-revolution/
 ---
