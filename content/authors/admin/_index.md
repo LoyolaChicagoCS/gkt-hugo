@@ -46,10 +46,10 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Illinois Institute of Technology (Chicago, IL)
+      institution: Illinois Institute of Technology
       year: 1995
     - course: MS in Computer Science
-      institution: Illinois Institute of Technology (Chicago, IL)
+      institution: Illinois Institute of Technology
       year: 1990
     - course: BS in Computer Science
       institution: Lewis University (Illinois)
