@@ -42,10 +42,6 @@ content:
       icon_pack: ai
       name: 'BEPress SelectedWorks'
       link: 'https://works.bepress.com/gkthiruvathukal'
-    - icon: calendar
-      icon_pack: fas
-      name: 'Google Calendar'
-      link: 'https://calendly.com/gkthiruvathukal'
     - icon: cv
       icon_pack: ai
       name: 'Download CV [PDF]'
