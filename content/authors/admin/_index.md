@@ -10,11 +10,11 @@ role: Full Professor and Chairperson, Department of Computer Science and Visitin
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Software and Systems Laboratory at Loyola University Chicago
+  - name: Director, Software and Systems Laboratory at Loyola University Chicago
     url: https://ssl.cs.luc.edu/
-  - name: Argonne National Laboratory Leadership Computing Facility
+  - name: Visiting Computer Scientist, Argonne National Laboratory
     url: https://www.alcf.anl.gov/about/people/george-k-thiruvathukal
-  - name: Purdue Univerity HELPS Lab
+  - name: Affiliated Faculty, Purdue Univerity HELPS Lab
     url: https://purduehelps.org
   - name: Track Editor-in-Chief, Journal of Open Source Software
     url: https://joss.theoj.org/about#editorial_board
