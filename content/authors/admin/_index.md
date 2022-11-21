@@ -96,11 +96,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my web page! 
-
-## Bio
-
-I am full professor of computer science and chairperson of same at Loyola University Chicago and visiting computer scientist (guest faculty/researcher) at Argonne National Laboratory.
+Hi! I'm George. I am full professor of computer science and chairperson of same at Loyola University Chicago and visiting computer scientist (guest faculty/researcher) at Argonne National Laboratory.
 
 I double-majored in computer science and physics at the Lewis University in Romeoville, IL.
 I earned a PhD in computer science from the Illinois Institute of Technology under the supervision of Thomas W. Christopher.
@@ -108,8 +104,7 @@ I earned a PhD in computer science from the Illinois Institute of Technology und
 My research and teaching interests include high-performance computing and distributed systems, programming languages, software engineering, machine learning.
 I am also interested in the interdisciplinary computing and work in computational science, data science, and digital humanities.
 My recent body of work is primarily in the areas of energy-efficient computer vision and empirical software engineering.
-
-My research has been funded by government agencies, including NSF, DARPA, NSA, and NEH.
+My research  been funded by government agencies, including NSF, DARPA, NSA, and NEH.
 I have also received research- and education-related gifts from industry, including Intel, Google, Meta, and Microsoft.
 
 My academic career can be described as a bit non-linear.
@@ -124,5 +119,5 @@ I am presently serving as a member of the IEEE Computer Advisory Board and as a 
 
 ## Hobbies
 
-music (playing piano, especially jazz and ragtime, biking (almost daily), running (occasionaly), international cooking and dining, reading, and writing
+music (playing piano, especially jazz and ragtime; composing), biking (almost daily), running (occasionaly), international cooking and dining, reading, and writing
 

@@ -19,18 +19,9 @@ content:
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
       tag: '*'
-#    - name: Deep Learning
-#      tag: Deep Learning
-#    - name: Other
-#      tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -58,7 +49,7 @@ Cyber Infrastructure to Enable Computer Vision Applications at the Edge Using Au
 
 - [NSF HRD-2121654](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2121654), Senior Personnel, *ADVANCE Adaptation: INSPIRED-Inclusive Practices in the Retention and Equity of Diverse Faculty*, \$972,496, 2021-2024
 
-- NCAE-C H98230-22-1-0306, Taming Container Privileges using Userland OS Guests, co-PI
+- NCAE-C H98230-22-1-0306, *Taming Container Privileges using Userland OS Guests*, \$500,000  (co-PI)
 
 
 ## Funding History
