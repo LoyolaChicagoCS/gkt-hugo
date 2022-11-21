@@ -29,9 +29,9 @@ content:
   coordinates:
     latitude: '42.001695'
     longitude: '-87.658191'
-  directions: Enter Doyle Hall on 1052 W Loyola Ave and take the stairs to room 301 on the third floor
+  directions: Enter Doyle Center on 1052 W Loyola Ave and GOTO 301
   office_hours:
-    - 'by appointment only (book an appointment below)'
+    - 'by Calendly appointment only'
   appointment_url: 'https://calendly.com/gkthiruvathukal'
   contact_links:
     - icon: arxiv
