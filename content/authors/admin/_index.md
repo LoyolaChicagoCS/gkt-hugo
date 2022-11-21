@@ -26,7 +26,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Computer Systems
+  - Computer Systems and Operating Systems
   - High-Performance and Distributed Computing
   - Programming Languages
   - Software Engineering
@@ -34,22 +34,32 @@ interests:
   - Cyber-Physical Systems
   - Artificial Intelligence and Machine Learning
   - Computer Vision
+  - Computational Science
+  - Data Science
+  - Digital Humanities
+  - Digital Music
+  - Human-Centered Design
+  - Leadership
+  - Collaboration and Teamwork
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Illinois Institute of Technology
+      institution: Illinois Institute of Technology, Chicago
       year: 1995
     - course: MS in Computer Science
-      institution: Illinois Institute of Technology
+      institution: Illinois Institute of Technology, Chicago
       year: 1990
     - course: BS in Computer Science
-      institution: Lewis University
+      institution: Lewis University, Illinois
       year: 1988
     - course: BS in Physics
-      institution: Lewis University
+      institution: Lewis University, Illinois
       year: 1988
+    - course: High School Diploma
+      institution: Decatur High School and Highline Community College, Washington
+      year: 1985
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
