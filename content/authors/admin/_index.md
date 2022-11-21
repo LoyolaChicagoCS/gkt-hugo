@@ -26,21 +26,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Computer Systems and Operating Systems
   - High-Performance and Distributed Computing
-  - Programming Languages
   - Software Engineering
-  - Data Science and Data Engineering
-  - Cyber-Physical Systems
   - Artificial Intelligence and Machine Learning
+  - Computer Systems and Operating Systems
   - Computer Vision
+  - Cyber-Physical Systems
+  - Data Science and Data Engineering
+  - Programming Languages
   - Computational Science
   - Data Science
   - Digital Humanities
   - Digital Music
   - Human-Centered Design
+  - Computer Science and Engineering Education
+  - Broadening Participation in Computing
   - Leadership
   - Collaboration and Teamwork
+  - Social Justice
+  - Entrepreneurship
 
 # Education to show in About widget
 education:
