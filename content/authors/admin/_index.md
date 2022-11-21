@@ -46,19 +46,19 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Illinois Institute of Technology, Chicago
+      institution: Illinois Institute of Technology (Chicago, IL)
       year: 1995
     - course: MS in Computer Science
-      institution: Illinois Institute of Technology, Chicago
+      institution: Illinois Institute of Technology (Chicago, IL)
       year: 1990
     - course: BS in Computer Science
-      institution: Lewis University, Illinois
+      institution: Lewis University (Illinois)
       year: 1988
     - course: BS in Physics
-      institution: Lewis University, Illinois
+      institution: Lewis University (Illinois)
       year: 1988
     - course: High School Diploma
-      institution: Decatur High School and Highline Community College, Washington
+      institution: Decatur High School and Highline Community College (Washington State) and Joliet Junior College (Illinois)
       year: 1985
 
 # Social/Academic Networking
