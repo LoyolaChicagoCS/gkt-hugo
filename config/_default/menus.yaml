@@ -7,12 +7,6 @@ main:
   - name: bio
     url: '#about'
     weight: 10
-  - name: linkedin
-    url: 'https://linkedin.com/in/gkthiruvathukal'
-    weight: 20
-  - name: contact
-    url: '#contact'
-    weight: 30
   - name: publications
     url: '#publications'
     weight: 40
@@ -22,6 +16,12 @@ main:
   - name: teaching
     url: '#teaching'
     weight: 60
+  - name: linkedin
+    url: 'https://linkedin.com/in/gkthiruvathukal'
+    weight: 20
+  - name: contact
+    url: '#contact'
+    weight: 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
