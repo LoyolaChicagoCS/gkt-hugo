@@ -4,22 +4,25 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: bio
+  - name: Bio
     url: '#about'
     weight: 10
-  - name: publications
+  - name: Publications
     url: '#publications'
     weight: 20
-  - name: research
+  - name: Research
     url: '#research'
     weight: 30
-  - name: teaching
+  - name: Teaching
     url: '#teaching'
     weight: 40
-  - name: linkedin
+  - name: LinkedIn
     url: 'https://linkedin.com/in/gkthiruvathukal'
     weight: 50
-  - name: contact
+  - name: 'CS News'
+    url: 'https://newsroom.cs.luc.edu/'
+    weight: 51
+  - name: Contact
     url: '#contact'
     weight: 60
 
