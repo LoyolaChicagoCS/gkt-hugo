@@ -71,6 +71,8 @@ Cyber Infrastructure to Enable Computer Vision Applications at the Edge Using Au
 
 ### Corporate
 
+
+- Intel, PI, *Expanding OS + DS lectures to include oneAPI/DPC++*, $\$40,000, 2022
 - Google, PI, *TensorFlow Models Garden Software Engineering*, \$30,000, 2021
 - Facebook, PI, *Low-Power Computer Vision Competition*, \$30,000, 2021
 - Google, Co-PI, *Google Research Awards: Machine Perception*, \$75,000, 2017

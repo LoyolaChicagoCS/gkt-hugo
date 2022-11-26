@@ -122,7 +122,11 @@ I have also served on the Publications Board, which oversees the transactions an
 
 I am presently serving as a member of the IEEE Computer Advisory Board and as a Track EIC for the Journal of Open Source Software (Data Science and Artificial Intelligence track).
 
-## Hobbies
+### Hobbies
 
-music (playing piano, especially jazz and ragtime; composing), biking (almost daily), running (occasionaly), international cooking and dining, reading, and writing
+- playing piano (jazz, ragtime, world, and sometimes classical), improvising, and composing
+- fitness: biking (almost daily), running (occasionally), basic core training
+- cooking and dining
+- reading and writing
+- political science (not the same as politics and partisanship)
 
