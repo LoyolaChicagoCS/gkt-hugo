@@ -18,15 +18,14 @@ marketing:
     site_type: Person
     local_business_type: 'Higher Education'
     org_name: 'Loyola University Chicago'
-    description: 'Konstantin Läufer, Professor of Computer Science, Loyola University Chicago'
-    twitter: 'loyolachicagocs'
-  analytics:
-    google_analytics: 'G-K59QLQZ07E'
-    baidu_tongji: ''
+    description: 'George K. Thiruvathukal, Professor and Chairperson of Computer Science, Loyola University Chicago'
+    twitter: 'gkthiruvathukal'
   verification:
     google: ''
     baidu: ''
-
+#  analytics:
+#    google_analytics: 'G-K59QLQZ07E'
+#    baidu_tongji: ''
 # Site header
 
 header:
@@ -70,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/klaeufer/klaeufer.github.io'
+    url: 'https://github.com/gkthiruvathukal/gkt-hugo'
     content_dir: content
     branch: master
   avatar:
