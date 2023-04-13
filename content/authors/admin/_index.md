@@ -14,7 +14,7 @@ organizations:
     url: https://ssl.cs.luc.edu/
   - name: Visiting Computer Scientist, Argonne National Laboratory
     url: https://www.alcf.anl.gov/about/people/george-k-thiruvathukal
-  - name: Affiliated Faculty, Purdue Univerity HELPS Lab
+  - name: Affiliated Faculty, Purdue University HELPS Lab
     url: https://purduehelps.org
   - name: Track Editor-in-Chief, Journal of Open Source Software
     url: https://joss.theoj.org/about#editorial_board
@@ -113,7 +113,7 @@ My research  been funded by government agencies, including NSF, DARPA, NSA, and 
 I have also received research- and education-related gifts from industry, including Intel, Google, Meta, and Microsoft.
 
 My academic career can be described as a bit non-linear.
-From 1990-1997, I worked full-time and consulting positions in the industry and ended this early phase of my career as a senior memeber of technical staff and development manager.
+From 1990-1997, I worked full-time and consulting positions in the industry and ended this early phase of my career as a senior member of technical staff and development manager.
 I credit this experience for helping to develop the leadership and "office" skills required of a department chairperson.
 
 At Loyola, I have served as undergraduate program director (in 2004) and as graduate program director (from 2004-2006).
