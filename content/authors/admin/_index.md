@@ -122,7 +122,7 @@ I have also served on the Publications Board, which oversees the transactions an
 
 I am presently serving as a member of the IEEE Computer Advisory Board and as a Track EIC for the Journal of Open Source Software (Data Science and Artificial Intelligence track).
 
-Apart from being a department chair and professor, I returned to school in January 2023 to study jazz piano performance with [Lara Driscoll](http://www.laradriscoll.com/), a talented French-American pianist and teacher. (She is my first actual piano teacher!) I have also studied jazz informally in the Old Town School, including [Michael Nearpass](http://michaelnearpass.com/) and [Jack Cassidy](https://www.jackcassidymusic.com/) (and hope to be back there soon).
+Apart from being a department chair and professor, I returned to school in January 2023 to study jazz piano performance with [Lara Driscoll](http://www.laradriscoll.com/), a talented French-American pianist and teacher. (She is my first actual piano teacher!) I have also studied jazz informally in the ensembles program at the Old Town School, including [Michael Nearpass](http://michaelnearpass.com/) and [Jack Cassidy](https://www.jackcassidymusic.com/) (and hope to be back there soon).
 
 ### Hobbies
 
