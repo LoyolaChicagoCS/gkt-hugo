@@ -102,7 +102,7 @@ highlight_name: true
 
 Hi! I'm George. I am full professor of computer science and chairperson of same at Loyola University Chicago and visiting computer scientist (guest faculty/researcher) at Argonne National Laboratory.
 
-I double-majored in computer science and physics and minored (almost major) im mathematics at Lewis University in Romeoville, IL.
+I double-majored in computer science and physics and minored (almost majored) in mathematics at Lewis University in Romeoville, IL.
 I earned a PhD in computer science from the Illinois Institute of Technology under the supervision of Thomas W. Christopher.
 My doctoral work involved the creation of messaging middleware to support parallel and distributed computation on computing clusters and networks of workstations (mostly in C/C++ and Java).
 
