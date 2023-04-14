@@ -78,7 +78,7 @@ social:
     link: https://github.com/gkthiruvathukal
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: 'https://scholar.google.com/citations?user=Rs0f_nMAAAAJ'
+    link: 'https://scholar.google.com/citations?user=Ls7yS0IAAAAJ' 
   - icon: linkedin
     icon_pack: fab
     link: 'http://www.linkedin.com/in/gkthiruvathukal'
