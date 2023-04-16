@@ -18,7 +18,6 @@ content:
   # Contact details (edit or remove options as required)
   email: gktcs.luc.edu
   phone: +1.773.508.8931
-  fax: +1.773.508.3739
   address:
     street: 1032 W Sheridan Rd
     city: Chicago
@@ -62,44 +61,15 @@ content:
       icon_pack: ai
       name: ORCID
       link: 'https://orcid.org/0000-0002-0452-5571'
-#    - icon: youtube
-#      icon_pack: fab
-#      name: YouTube
-#      link: 'http://www.youtube.com/user/klaeufer'
-#    - icon: user-group
-#      icon_pack: fas
-#      name: StayFriends
-#      link: 'https://www.stayfriends.de/client/profile/339427'
-#    - icon: star
-#      icon_pack: fas
-#      name: RateMyProfessor
-#      link: 'https://www.ratemyprofessors.com/ShowRatings.jsp?tid=287274'
-#    - icon: meetup
-#      icon_pack: fab
-#      name: Meetup
-#      link: 'https://www.meetup.com/members/6740341/?showAllGroups=true'
-#    - icon: dna
-#      icon_pack: fas
-#      name: 'Mathematics Genealogy Project'
-#      link: 'https://www.mathgenealogy.org/id.php?id=151113'
-#    - icon: instagram
-#      icon_pack: fab
-#      name: Instagram
-#      link: 'https://www.instagram.com/klaeufer'
-#    - icon: dblp
-#      icon_pack: ai
-#      name: 'DBLP'
-#      link: 'http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/L=auml=ufer:Konstantin.html'
-#    - icon: twitter
-#      icon_pack: fab
-#      name: Twitter
-#      link: 'https://twitter.com/klaeufer'
-#    - icon: xing
-#      icon_pack: fab
-#      name: Xing
-#      link: 'http://www.xing.com/profile/Konstantin_Laeufer'
 
 
 design:
   columns: '2'
 ---
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/gkthiruvathukal/online" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+
