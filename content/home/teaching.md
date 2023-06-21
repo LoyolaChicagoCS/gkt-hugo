@@ -47,21 +47,24 @@ design:
   flip_alt_rows: false
 ---
 
-## Fall 2022
-
-No scheduled teaching.
-
-## Spring 2023
+# Spring 2023
 
 - COMP 339/439: Distributed Systems
   - Monday 4:15pm-6:45pm US Central/Chicago
   - Distributed Systems lecture notes at [ds.cs.luc.edu](https://ds.cs.luc.edu)
   - Advanced Systems Programming/Operating Systems notes at [os.cs.luc.edu](https://os.cs.luc.edu)
 
-## Past Courses
+# Fall 2023
 
-To appear soon.
+- COMP 141: Introduction to Computing Tools and Techniques (Linux)
 
-## Code examples
+
+# Online Materials
+
+- [curricula.cs.luc.edu](https://curricula.cs.luc.edu) - Analyzing Computing Curricula using LLMs
+- [unoapi.cs.luc.edu](https://unoapi.cs.luc.edu) - Curricular materials for learning OneAPI and Data-Parallel C++/SYCL
+
+
+# Code examples
 
 [Systems Code Examples](https://github.com/softwaresystemslaboratory/systems-code-examples)
