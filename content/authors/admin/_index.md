@@ -10,18 +10,20 @@ role: Full Professor and Chairperson, Department of Computer Science and Visitin
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Director, Software and Systems Laboratory at Loyola University Chicago
-    url: https://ssl.cs.luc.edu/
   - name: Visiting Computer Scientist, Argonne National Laboratory
     url: https://www.alcf.anl.gov/about/people/george-k-thiruvathukal
+  - name: Director, Software and Systems Laboratory at Loyola University Chicago
+    url: https://ssl.cs.luc.edu/
   - name: Affiliated Faculty, Purdue University HELPS Lab
     url: https://purduehelps.org
-  - name: Track Editor-in-Chief, Journal of Open Source Software
+  - name: Track Editor-in-Chief Data Science/Artificial Intelligence, Journal of Open Source Software
     url: https://joss.theoj.org/about#editorial_board
-  - name: Advisory Board, IEEE Computer
-    url: https://www.computer.org/csdl/magazine/co
   - name: Board of Directors, Access Contemporary Music 
     url: https://acmusic.org/about-us/#meet-our-board-of-directors
+  - name: Advisory Board, IEEE Computer
+    url: https://www.computer.org/csdl/magazine/co
+  - name: Past EIC, IEEE Computing in Science and Engineering, 2013-2016
+    url: https://www.computer.org/csdl/magazine/cs
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
