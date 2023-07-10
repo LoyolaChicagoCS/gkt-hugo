@@ -20,6 +20,8 @@ organizations:
     url: https://joss.theoj.org/about#editorial_board
   - name: Advisory Board, IEEE Computer
     url: https://www.computer.org/csdl/magazine/co
+  - name: Board of Directors, Access Contemporary Music 
+    url: https://acmusic.org/about-us/#meet-our-board-of-directors
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
