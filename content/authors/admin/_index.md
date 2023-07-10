@@ -6,7 +6,7 @@ title: George K. Thiruvathukal, PhD
 superuser: true
 
 # Role/position/tagline
-role: Full Professor and Chairperson, Department of Computer Science and Visiting Computer Scientist at Argonne National Laboratory
+role: Full Professor and Chairperson, Department of Computer Science, Loyola University Chicago
 
 # Organizations/Affiliations to show in About widget
 organizations:
