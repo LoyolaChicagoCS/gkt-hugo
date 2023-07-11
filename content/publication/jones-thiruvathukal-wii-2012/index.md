@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T19:04:44.853068Z'
+publishDate: '2023-07-11T04:48:52.596060Z'
 publication_types:
 - '5'
 abstract: " Nintendo's hugely popular and influential video game console system considered\

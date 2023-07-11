@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:29.195124Z'
+publishDate: '2023-07-11T04:49:00.822167Z'
 publication_types:
 - '2'
 abstract: Former CiSE EICs reflect on the magazine’s 20th anniversary.

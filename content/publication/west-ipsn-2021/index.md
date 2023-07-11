@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:23.727092Z'
+publishDate: '2023-07-11T04:48:53.623141Z'
 publication_types:
 - '1'
 abstract: Context-based authentication is a method for transparently validating another

@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:24.040956Z'
+publishDate: '2023-07-11T04:48:54.043303Z'
 publication_types:
 - '1'
 abstract: Most of the existing video storage systems rely on offline processing to

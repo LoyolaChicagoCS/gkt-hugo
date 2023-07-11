@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:28.598234Z'
+publishDate: '2023-07-11T04:48:59.888883Z'
 publication_types:
 - '2'
 abstract: We use the term ubiquitous supercomputing to refer to systems that integrate

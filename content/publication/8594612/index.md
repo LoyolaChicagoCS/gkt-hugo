@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:29.115822Z'
+publishDate: '2023-07-11T04:49:00.717132Z'
 publication_types:
 - '2'
 abstract: Hundreds of millions of network cameras have been installed throughout the

@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:27.117183Z'
+publishDate: '2023-07-11T04:48:58.115056Z'
 publication_types:
 - '1'
 abstract: Message Driven Computation (MDC) is a model of computation with which they

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:22.796273Z'
+publishDate: '2023-07-11T04:48:52.495892Z'
 publication_types:
 - '5'
 abstract: Software Engineering for Science provides an in-depth collection of peer-reviewed

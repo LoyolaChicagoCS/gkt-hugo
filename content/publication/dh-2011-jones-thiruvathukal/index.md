@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:26.012151Z'
+publishDate: '2023-07-11T04:48:56.651818Z'
 publication_types:
 - '1'
 abstract: 'Racing the Beam: The Atari Video Computer System,by Ian Bogost and Nick

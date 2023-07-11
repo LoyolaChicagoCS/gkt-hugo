@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:28.201569Z'
+publishDate: '2023-07-11T04:48:59.368667Z'
 publication_types:
 - '2'
 abstract: Networks of workstations are a dominant force in the distributed computing

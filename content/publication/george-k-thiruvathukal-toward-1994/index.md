@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:27.037887Z'
+publishDate: '2023-07-11T04:48:58.009530Z'
 publication_types:
 - '1'
 abstract: 'Scalable parallel processing has been proposed as the technology scientists

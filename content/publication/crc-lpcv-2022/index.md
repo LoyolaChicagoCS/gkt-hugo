@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:22.716393Z'
+publishDate: '2023-07-11T04:48:52.386536Z'
 publication_types:
 - '5'
 abstract: Energy efficiency is critical for running computer vision on battery-powered

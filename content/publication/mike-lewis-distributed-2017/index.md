@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:25.228430Z'
+publishDate: '2023-07-11T04:48:55.610978Z'
 publication_types:
 - '1'
 abstract: Efficient RDF, graph based queries are becoming more pertinent based on

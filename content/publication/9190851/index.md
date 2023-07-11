@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:24.119852Z'
+publishDate: '2023-07-11T04:48:54.149388Z'
 publication_types:
 - '1'
 abstract: 'In the blooming era of smart edge devices, surveillance cameras have been

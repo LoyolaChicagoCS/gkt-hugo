@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:24.436587Z'
+publishDate: '2023-07-11T04:48:54.564651Z'
 publication_types:
 - '1'
 abstract: This paper shows how students can be guided to integrate elementary mathematical

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:26.171074Z'
+publishDate: '2023-07-11T04:48:56.860605Z'
 publication_types:
 - '1'
 abstract: The E-Carrel project aims to address the preservation of, access to, and

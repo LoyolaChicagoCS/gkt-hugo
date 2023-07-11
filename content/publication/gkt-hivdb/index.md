@@ -1,17 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Scientific Software Communities
-subtitle: ''
-summary: ''
-authors:
-- Andy Terrel
-- Michael Tobis
-- George K. Thiruvathukal
+title: "Gkt Hivdb"
+subtitle: ""
+summary: ""
+authors: []
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2022-11-19T22:39:30-06:00
+date: 2023-07-10T23:23:43-05:00
+lastmod: 2023-07-10T23:23:43-05:00
 featured: false
 draft: false
 
@@ -19,8 +16,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
@@ -29,12 +26,4 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-11T04:49:01.963361Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Computing in Science and Engineering*'
-links:
-- name: URL
-  url: https://ecommons.luc.edu/cs_facpubs/262/
 ---

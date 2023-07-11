@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:26.879819Z'
+publishDate: '2023-07-11T04:48:57.802597Z'
 publication_types:
 - '1'
 abstract: Heterogeneously distributed and parallel computing environments are highly

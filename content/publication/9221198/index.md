@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:23.962600Z'
+publishDate: '2023-07-11T04:48:53.938196Z'
 publication_types:
 - '1'
 abstract: 'Deep neural networks (DNNs) are successful in many computer vision tasks.

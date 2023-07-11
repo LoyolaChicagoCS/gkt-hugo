@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:27.885156Z'
+publishDate: '2023-07-11T04:48:58.951017Z'
 publication_types:
 - '2'
 abstract: This study explores the performance of modern, accurate machine learning

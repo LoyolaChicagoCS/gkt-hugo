@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-10T15:19:13.175345Z'
+publishDate: '2023-07-11T04:48:53.518513Z'
 publication_types:
 - '1'
 abstract: Deep neural networks achieve state-of-the-art performance on many tasks,

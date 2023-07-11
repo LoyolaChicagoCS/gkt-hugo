@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T04:39:25.070126Z'
+publishDate: '2023-07-11T04:48:55.401478Z'
 publication_types:
 - '1'
 abstract: Millions of network cameras are streaming real-time multimedia content (images
