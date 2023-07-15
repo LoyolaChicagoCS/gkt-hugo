@@ -47,16 +47,23 @@ design:
   flip_alt_rows: false
 ---
 
-# Spring 2023
+# Office Hours [year round]
+
+Please use [Microsoft Bookings](https://outlook.office365.com/owa/calendar/GeorgesBookingPage@loyolauniversitychicago.onmicrosoft.com/bookings/) for office hours.
+
+Note: You do *not* need to be a current student of mine to request office hours.
+However, during regular semesters, priority is given to students *actually enrolled* in my class.
+
+# Fall 2023
+
+- COMP 141: Introduction to Computing Tools and Techniques (Linux)
+
+# Spring 2023 [last semester]
 
 - COMP 339/439: Distributed Systems
   - Monday 4:15pm-6:45pm US Central/Chicago
   - Distributed Systems lecture notes at [ds.cs.luc.edu](https://ds.cs.luc.edu)
   - Advanced Systems Programming/Operating Systems notes at [os.cs.luc.edu](https://os.cs.luc.edu)
-
-# Fall 2023
-
-- COMP 141: Introduction to Computing Tools and Techniques (Linux)
 
 
 # Online Materials
@@ -64,7 +71,3 @@ design:
 - [curricula.cs.luc.edu](https://curricula.cs.luc.edu) - Analyzing Computing Curricula using LLMs
 - [unoapi.cs.luc.edu](https://unoapi.cs.luc.edu) - Curricular materials for learning OneAPI and Data-Parallel C++/SYCL
 
-
-# Code examples
-
-[Systems Code Examples](https://github.com/softwaresystemslaboratory/systems-code-examples)
