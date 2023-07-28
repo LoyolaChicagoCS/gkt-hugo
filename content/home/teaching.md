@@ -58,16 +58,15 @@ However, during regular semesters, priority is given to students *actually enrol
 
 - COMP 141: Introduction to Computing Tools and Techniques (Linux)
 
-# Spring 2023 [last semester]
-
-- COMP 339/439: Distributed Systems
-  - Monday 4:15pm-6:45pm US Central/Chicago
-  - Distributed Systems lecture notes at [ds.cs.luc.edu](https://ds.cs.luc.edu)
-  - Advanced Systems Programming/Operating Systems notes at [os.cs.luc.edu](https://os.cs.luc.edu)
-
-
 # Online Materials
 
+- Advanced Systems Programming/Operating Systems notes at [os.cs.luc.edu](https://os.cs.luc.edu)
+- Distributed Systems lecture notes at [ds.cs.luc.edu](https://ds.cs.luc.edu)
 - [curricula.cs.luc.edu](https://curricula.cs.luc.edu) - Analyzing Computing Curricula using LLMs
 - [unoapi.cs.luc.edu](https://unoapi.cs.luc.edu) - Curricular materials for learning OneAPI and Data-Parallel C++/SYCL
+
+# Code Examples [selected]
+
+- Systems Code Examples [github.com/SoftwareSystemsLaboratory/systems-code-examples](https://github.com/SoftwareSystemsLaboratory/systems-code-examples)
+- Intermediate C Book, 2nd Edition, [github.com/icptwo/icp2](https://github.com/icptwo/icp2) 
 
