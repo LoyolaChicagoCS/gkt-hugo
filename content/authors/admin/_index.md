@@ -14,8 +14,8 @@ organizations:
     url: https://www.alcf.anl.gov/about/people/george-k-thiruvathukal
   - name: Director, Software and Systems Laboratory at Loyola University Chicago
     url: https://ssl.cs.luc.edu/
-  - name: Affiliated Faculty, Purdue University HELPS Lab
-    url: https://purduehelps.org
+  - name: Affiliated Faculty, Purdue University SERIS Lab
+    url: https://purdueseris.org
   - name: Track Editor-in-Chief Data Science/Artificial Intelligence, Journal of Open Source Software
     url: https://joss.theoj.org/about#editorial_board
   - name: Board of Directors, Access Contemporary Music 
