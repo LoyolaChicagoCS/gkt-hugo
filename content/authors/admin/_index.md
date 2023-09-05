@@ -18,12 +18,8 @@ organizations:
     url: https://purdueseris.org
   - name: Track Editor-in-Chief Data Science/Artificial Intelligence, Journal of Open Source Software
     url: https://joss.theoj.org/about#editorial_board
-  - name: Board of Directors, Access Contemporary Music 
-    url: https://acmusic.org/about-us/#meet-our-board-of-directors
   - name: Advisory Board, IEEE Computer
     url: https://www.computer.org/csdl/magazine/co
-  - name: Past EIC, IEEE Computing in Science and Engineering, 2013-2016
-    url: https://www.computer.org/csdl/magazine/cs
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -38,10 +34,7 @@ interests:
   - Cyber-Physical Systems
   - Data Science and Data Engineering
   - Programming Languages
-  - Computational Science
-  - Data Science
-  - Digital Humanities
-  - Digital Music
+  - Music
   - Human-Centered Design
   - Computer Science and Engineering Education
   - Broadening Participation in Computing
