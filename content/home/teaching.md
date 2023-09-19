@@ -49,7 +49,7 @@ design:
 
 # Office Hours [year round]
 
-Please use [Microsoft Bookings](https://outlook.office365.com/owa/calendar/GeorgesBookingPage@loyolauniversitychicago.onmicrosoft.com/bookings/) for office hours.
+Please use [Calendly](https://calendly.com/gkthiruvathukal) for office hours.
 
 Note: You do *not* need to be a current student of mine to request office hours.
 However, during regular semesters, priority is given to students *actually enrolled* in my class.

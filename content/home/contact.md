@@ -30,8 +30,8 @@ content:
     longitude: '-87.658191'
   directions: Enter Doyle Center on 1052 W Loyola Ave and GOTO 301
   office_hours:
-    - 'by Microsoft Bookings only'
-  appointment_url: 'https://outlook.office365.com/owa/calendar/GeorgesBookingPage@loyolauniversitychicago.onmicrosoft.com/bookings/'
+    - 'by Calendly only'
+  appointment_url: 'https://calendly.com/gkthiruvathukal'
   contact_links:
     - icon: arxiv
       icon_pack: ai
