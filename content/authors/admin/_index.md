@@ -16,7 +16,7 @@ organizations:
     url: https://ssl.cs.luc.edu/
   - name: Affiliated Faculty, Purdue University SERIS Lab
     url: https://purdueseris.org
-  - name: Track Editor-in-Chief Data Science/Artificial Intelligence, Journal of Open Source Software
+  - name: Editorial Board, Journal of Open Source Software
     url: https://joss.theoj.org/about#editorial_board
   - name: Advisory Board, IEEE Computer
     url: https://www.computer.org/csdl/magazine/co
