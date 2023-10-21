@@ -63,7 +63,7 @@ However, during regular semesters, priority is given to students *actually enrol
 - Advanced Systems Programming/Operating Systems notes at [os.cs.luc.edu](https://os.cs.luc.edu)
 - Distributed Systems lecture notes at [ds.cs.luc.edu](https://ds.cs.luc.edu)
 - [curricula.cs.luc.edu](https://curricula.cs.luc.edu) - Analyzing Computing Curricula using LLMs
-- [unoapi.cs.luc.edu](https://unoapi.cs.luc.edu) - Curricular materials for learning OneAPI and Data-Parallel C++/SYCL
+- [unoapi.org](https://unoapi.org) - Curricular materials for learning OneAPI and Data-Parallel C++/SYCL
 
 # Code Examples [selected]
 

@@ -40,7 +40,7 @@ design:
 
 ## Current Projects and Funding
 
-- [UnoAPI](https://unoapi.cs.luc.edu): Curricular modules for high-performance computing using data-parallel C++ with Intel's OneAPI (PI)
+- [UnoAPI](https://unoapi.org): Curricular modules for high-performance computing using data-parallel C++ with Intel's OneAPI (PI)
 
 - [NSF OAC-2104319](https://nsf.gov/awardsearch/showAward?AWD_ID=2104319)
 Cyber Infrastructure to Enable Computer Vision Applications at the Edge Using Automated Contextual Analysis (PI)
